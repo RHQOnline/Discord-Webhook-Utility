@@ -11,7 +11,7 @@ Next, you need to establish a working environment for the program to function in
 Reccomended locations for the environment:
 * The Desktop (C:/Users/`username`/Desktop)
 * The Root of the C Drive (C:/)
-* A misc., secure drive
+* A misc., secure drive, folder, or location
   
 Inside of the location you have chosen, you will want to create a folder called "Discord Webhook Utils" or something similarly easy to remember and clearly indicative of the folder contents.
 
