@@ -52,6 +52,9 @@ It is composed of optional text, a title, a description, and optional components
 * * Field Title and Text Content
 * Custom Username for Bot Message
 
+# Security Features
+This utility utilizes total AES Encryption of WebhookURLs to ensure the top level of security. Only your PC has access to the decryption key; **nobody else in the world**.
+
 # Whats to Come
 * Adding a Wiki on GitHub.
 
