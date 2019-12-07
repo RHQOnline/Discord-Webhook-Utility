@@ -9,7 +9,7 @@ You should now have the executable file in your downloads (or wherever the desti
 ## Step Two: The Environment
 Next, you need to establish a working environment for the program to function in.<br>
 Reccomended locations for the environment:
-* The Desktop (C:/Users/<username>/Desktop)
+* The Desktop (C:/Users/`username`/Desktop)
 * The Root of the C Drive (C:/)
 * A misc., secure drive
   
