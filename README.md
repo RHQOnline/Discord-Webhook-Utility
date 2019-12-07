@@ -1,5 +1,5 @@
 # Discord Webhook Utility
-Send announcements, messages, embeds, etc. through webhooks with a simple-to-use interface.<br>**Powered by RHQOnline**.
+Send announcements, messages, embeds, etc. through webhooks with a simple-to-use interface.<br>This project is **closed-source** at this time.<br>**Powered by RHQOnline**.
 
 # How to Install
 ## Step One: The Download
