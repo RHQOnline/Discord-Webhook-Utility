@@ -5,7 +5,7 @@ Send announcements, messages, embeds, etc. through webhooks with a simple-to-use
 <br>
 # How to Install
 ## Step One: The Download
-To begin, start by [downloading the binary](https://github.com/RHQOnline/Discord-Webhook-Utility/releases/tag/v1.2.1) of the program from the [releases](https://github.com/RHQOnline/Discord-Webhook-Utility/releases) page of the GitHub.<br>
+To begin, start by [downloading the binary](https://github.com/RHQOnline/Discord-Webhook-Utility/releases/tag/v1.5.4) of the program from the [releases](https://github.com/RHQOnline/Discord-Webhook-Utility/releases) page of the GitHub.<br>
 You should now have the executable file in your downloads (or wherever the destination you chose during the download).
 ![](https://i.imgur.com/2KdDwTM.png)
 ## Step Two: The Environment
