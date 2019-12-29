@@ -1,6 +1,8 @@
 # Discord Webhook Utility
 Send announcements, messages, embeds, etc. through webhooks with a simple-to-use interface.<br>This project is **closed-source** at this time.<br>**Powered by RHQOnline**.
-
+<br><br>
+![compatibility](https://img.shields.io/badge/platform-win--32%20%7C%20win--64-lightgrey) ![version](https://img.shields.io/github/v/release/rhqonline/discord-webhook-utility?color=green&label=latest%20version)<br>![license](https://img.shields.io/badge/license-closed--source%3B%20private%20under%20RHQOnline-critical)<br>![downloads](https://img.shields.io/badge/downloads-1k-brightgreen) ![size](https://img.shields.io/badge/size-~10mb-informational) ![auto-updating](https://img.shields.io/badge/-Auto--Updating-important)
+<br>
 # How to Install
 ## Step One: The Download
 To begin, start by [downloading the binary](https://github.com/RHQOnline/Discord-Webhook-Utility/releases/tag/v1.2.1) of the program from the [releases](https://github.com/RHQOnline/Discord-Webhook-Utility/releases) page of the GitHub.<br>
