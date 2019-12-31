@@ -1,7 +1,7 @@
 # Discord Webhook Utility
 Send announcements, messages, embeds, etc. through webhooks with a simple-to-use interface.<br>This project is **closed-source** at this time.<br>**Powered by RHQOnline**.
 <br><br>
-![compatibility](https://img.shields.io/badge/platform-win--32%20%7C%20win--64-lightgrey) ![version](https://img.shields.io/badge/latest%20version-v1.5.4-green)<br>![build_info](https://img.shields.io/badge/build-passing-success) ![license](https://img.shields.io/badge/license-closed--source%3B%20privatized-critical)<br>![downloads](https://img.shields.io/badge/downloads-1k-brightgreen) ![size](https://img.shields.io/badge/size-~10mb-informational) ![auto-updating](https://img.shields.io/badge/-Auto--Updating-important)
+![compatibility](https://img.shields.io/badge/platform-win--32%20%7C%20win--64-lightgrey) ![version](https://img.shields.io/badge/latest%20version-v1.5.4-green)<br>![build_info](https://img.shields.io/badge/build-passing-success) ![license](https://img.shields.io/badge/license-closed--source%3B%20privatized-critical)<br>![downloads](https://img.shields.io/badge/downloads-2k-brightgreen) ![size](https://img.shields.io/badge/size-~10mb-informational) ![auto-updating](https://img.shields.io/badge/-Auto--Updating-important)
 <br>
 # How to Install
 ## Step One: The Download
